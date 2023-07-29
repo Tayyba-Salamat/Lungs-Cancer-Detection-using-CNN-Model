@@ -29,7 +29,9 @@ And classification interfaces for classes are: <br />
 <br />
 Result:
 Validation and training loss by using this CNN model, we achieved till 0.05.Till 15 epochs, we achieved accuracy of almost 98% without over fitting as shown in the given graph  <br />
-![los](https://github.com/Tayyba-Salamat/Lungs-Cancer-Detection-using-CNN-Model/assets/110371081/f3325267-5dcc-4217-8338-6a5f403dd6bc)  ![Acc](https://github.com/Tayyba-Salamat/Lungs-Cancer-Detection-using-CNN-Model/assets/110371081/37699947-daa0-446f-877a-f85a44b8583b)
+![los](https://github.com/Tayyba-Salamat/Lungs-Cancer-Detection-using-CNN-Model/assets/110371081/c110b870-f93f-487e-85a2-964615a7a36d)
+![Acc](https://github.com/Tayyba-Salamat/Lungs-Cancer-Detection-using-CNN-Model/assets/110371081/63902f22-633f-420f-9770-61cf5bb443de)
+
 
 
  
